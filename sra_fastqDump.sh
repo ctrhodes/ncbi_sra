@@ -1,6 +1,6 @@
 #!/bin/bash
 
-pathname=( "/home/chris/geoSra/BV27me3H4K20me3/raw/SRP074862" "/home/chris/geoSra/BV27me3H4K20me3/raw/SRX603399" )
+pathname=( "/home/chris/geoSra/" "/home/chris/geoSra/" )
 
 for d in "${pathname[@]}"
 do
